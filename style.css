@@ -1,0 +1,30 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo h1 {
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo h3 {
+    font-size: 1rem;
+}
+
+.contenedorImagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedorImagen img {
+    max-width: 600px;
+    max-height: 600px;
+}
+
+.contenedorImagen2 {
+    display: none;
+    max-width: 600px;
+    max-height: 600px;
+}
